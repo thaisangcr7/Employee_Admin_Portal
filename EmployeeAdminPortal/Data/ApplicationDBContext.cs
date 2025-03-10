@@ -3,7 +3,8 @@ using System.Data.Common;
 
 namespace EmployeeAdminPortal.Data
 {
-    public class ApplicationDBContext : DbContext
+    public class TempDBContext : DbContext
+
     {
 
     }
